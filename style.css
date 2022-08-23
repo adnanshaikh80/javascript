@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: gray;
 }
@@ -26,4 +27,34 @@ p{
   color: aqua;
   font-family: 'Indie Flower', cursive;
 }
+=======
+body {
+    background-color: gray;
+}
+
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'lobster', cursive;
+    font-size: 3em;
+
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    
+}
+
+img{
+    width: 80%;
+}
+p{
+  font-size: 2rem;
+  color: aqua;
+  font-family: 'Indie Flower', cursive;
+}
+>>>>>>> 44f7835196ce15fa6d7041e8580c317cdbd5b3b4
  
